@@ -1,5 +1,5 @@
 :HL["/_next/static/chunks/3wmy1e6cr9mem.css","style"]
-:HL["/_next/static/chunks/1lcwxfoftblrv.css","style"]
+:HL["/_next/static/chunks/33h530zrbdoly.css","style"]
 :HL["/_next/static/media/588386178319a3bf-s.p.00tq7lrh3ufxo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/8fa12122413573b1-s.p.2py80ly84rhkl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/b4a06a523f527a0e-s.p.3psl0_mnhzy2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -14,4 +14,4 @@
 :HL["/images/sport/basseyn-ulica-1920.webp","image",{"imageSrcSet":"/images/sport/basseyn-ulica-640.webp 640w, /images/sport/basseyn-ulica-1280.webp 1280w, /images/sport/basseyn-ulica-1920.webp 1920w","imageSizes":"(min-width: 1024px) 13vw, (min-width: 640px) 20vw, 26vw","fetchPriority":"high"}]
 :HL["/images/sport/delta-440a-tent-1920.webp","image",{"imageSrcSet":"/images/sport/delta-440a-tent-640.webp 640w, /images/sport/delta-440a-tent-1280.webp 1280w, /images/sport/delta-440a-tent-1920.webp 1920w","imageSizes":"(min-width: 1024px) 13vw, (min-width: 640px) 20vw, 26vw","fetchPriority":"high"}]
 :HL["/images/stroitelstvo/septik-montazh-1920.webp","image",{"imageSrcSet":"/images/stroitelstvo/septik-montazh-640.webp 640w, /images/stroitelstvo/septik-montazh-1280.webp 1280w, /images/stroitelstvo/septik-montazh-1920.webp 1920w","imageSizes":"(min-width: 1024px) 13vw, (min-width: 640px) 20vw, 26vw","fetchPriority":"high"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"y9iFe458hujXdA4dCWs4i"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"vEm8ZT8JHDbpuSEJx335o"}
